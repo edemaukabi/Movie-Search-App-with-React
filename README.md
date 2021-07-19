@@ -1,3 +1,33 @@
+# Movie Search App with React
+
+Movie Search App is an application where users can search for movies by entering the title of the movie.
+
+
+![App Desktop View](assets/moviesearchdesktop.png)
+![App Mobile View](assets/moviesearchdesktop.png)
+Project Screen Shot(s)
+
+Installation and Setup Instructions
+Clone down this repository. You will need node and npm installed globally on your machine.
+
+Installation:
+
+npm install
+
+To Start Server:
+
+npm start
+
+To Visit App:
+
+localhost:3000/
+
+Reflection
+
+In this project, I built an  application that allows users to search for movies using React technology. The data is movie data is fetched from the movie database (https://www.themoviedb.org/) using an API key they provide.
+
+At the end of the day, the technologies implemented in this project are React, JSX, and CSS.The fetch API is used to fetch the data from the url provided. I chose to use the create-react-app boilerplate to minimize initial setup. I also used functional based components and React hooks instead of class based components. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
